@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/barranav/static/css/main.98bbbb82.chunk.css",
+    "main.js": "/barranav/static/js/main.567a840b.chunk.js",
+    "main.js.map": "/barranav/static/js/main.567a840b.chunk.js.map",
+    "runtime-main.js": "/barranav/static/js/runtime-main.1ace6882.js",
+    "runtime-main.js.map": "/barranav/static/js/runtime-main.1ace6882.js.map",
+    "static/js/2.184b4b47.chunk.js": "/barranav/static/js/2.184b4b47.chunk.js",
+    "static/js/2.184b4b47.chunk.js.map": "/barranav/static/js/2.184b4b47.chunk.js.map",
+    "index.html": "/barranav/index.html",
+    "precache-manifest.2d5009df14ae56fd303df2b19d3307fe.js": "/barranav/precache-manifest.2d5009df14ae56fd303df2b19d3307fe.js",
+    "service-worker.js": "/barranav/service-worker.js",
+    "static/css/main.98bbbb82.chunk.css.map": "/barranav/static/css/main.98bbbb82.chunk.css.map",
+    "static/js/2.184b4b47.chunk.js.LICENSE.txt": "/barranav/static/js/2.184b4b47.chunk.js.LICENSE.txt",
+    "static/media/arrow.48ae6434.svg": "/barranav/static/media/arrow.48ae6434.svg",
+    "static/media/bell.e9fd40a7.svg": "/barranav/static/media/bell.e9fd40a7.svg",
+    "static/media/bolt.681afa2e.svg": "/barranav/static/media/bolt.681afa2e.svg",
+    "static/media/caret.615e14d1.svg": "/barranav/static/media/caret.615e14d1.svg",
+    "static/media/chevron.efbb2bd6.svg": "/barranav/static/media/chevron.efbb2bd6.svg",
+    "static/media/cog.993f0cc0.svg": "/barranav/static/media/cog.993f0cc0.svg",
+    "static/media/messenger.9fdc8d67.svg": "/barranav/static/media/messenger.9fdc8d67.svg",
+    "static/media/plus.9311af2e.svg": "/barranav/static/media/plus.9311af2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ace6882.js",
+    "static/js/2.184b4b47.chunk.js",
+    "static/css/main.98bbbb82.chunk.css",
+    "static/js/main.567a840b.chunk.js"
+  ]
+}
