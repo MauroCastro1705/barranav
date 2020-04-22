@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/barranav/static/css/main.98bbbb82.chunk.css",
-    "main.js": "/barranav/static/js/main.567a840b.chunk.js",
-    "main.js.map": "/barranav/static/js/main.567a840b.chunk.js.map",
+    "main.js": "/barranav/static/js/main.95a245ba.chunk.js",
+    "main.js.map": "/barranav/static/js/main.95a245ba.chunk.js.map",
     "runtime-main.js": "/barranav/static/js/runtime-main.1ace6882.js",
     "runtime-main.js.map": "/barranav/static/js/runtime-main.1ace6882.js.map",
     "static/js/2.184b4b47.chunk.js": "/barranav/static/js/2.184b4b47.chunk.js",
     "static/js/2.184b4b47.chunk.js.map": "/barranav/static/js/2.184b4b47.chunk.js.map",
     "index.html": "/barranav/index.html",
-    "precache-manifest.2d5009df14ae56fd303df2b19d3307fe.js": "/barranav/precache-manifest.2d5009df14ae56fd303df2b19d3307fe.js",
+    "precache-manifest.8da455e464cffa1948f6e8a5ac569e70.js": "/barranav/precache-manifest.8da455e464cffa1948f6e8a5ac569e70.js",
     "service-worker.js": "/barranav/service-worker.js",
     "static/css/main.98bbbb82.chunk.css.map": "/barranav/static/css/main.98bbbb82.chunk.css.map",
     "static/js/2.184b4b47.chunk.js.LICENSE.txt": "/barranav/static/js/2.184b4b47.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.1ace6882.js",
     "static/js/2.184b4b47.chunk.js",
     "static/css/main.98bbbb82.chunk.css",
-    "static/js/main.567a840b.chunk.js"
+    "static/js/main.95a245ba.chunk.js"
   ]
 }

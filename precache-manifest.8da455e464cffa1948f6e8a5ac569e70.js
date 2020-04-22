@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "846fc804d49b1540d1b79e5e557628bf",
+    "revision": "d2a009460eee52b185ee54b96505fe42",
     "url": "/barranav/index.html"
   },
   {
-    "revision": "5ef876e245b12e85c008",
+    "revision": "a4f85415fcb67f0547a0",
     "url": "/barranav/static/css/main.98bbbb82.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barranav/static/js/2.184b4b47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5ef876e245b12e85c008",
-    "url": "/barranav/static/js/main.567a840b.chunk.js"
+    "revision": "a4f85415fcb67f0547a0",
+    "url": "/barranav/static/js/main.95a245ba.chunk.js"
   },
   {
     "revision": "85e6c6f6c82cbecfd92f",
