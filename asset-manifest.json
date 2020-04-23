@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/barranav/static/css/main.98bbbb82.chunk.css",
+    "main.css": "/barranav/static/css/main.d3997d6a.chunk.css",
     "main.js": "/barranav/static/js/main.95a245ba.chunk.js",
     "main.js.map": "/barranav/static/js/main.95a245ba.chunk.js.map",
     "runtime-main.js": "/barranav/static/js/runtime-main.1ace6882.js",
@@ -8,9 +8,9 @@
     "static/js/2.184b4b47.chunk.js": "/barranav/static/js/2.184b4b47.chunk.js",
     "static/js/2.184b4b47.chunk.js.map": "/barranav/static/js/2.184b4b47.chunk.js.map",
     "index.html": "/barranav/index.html",
-    "precache-manifest.0f395155b113a5c92d1f54739ddfcd20.js": "/barranav/precache-manifest.0f395155b113a5c92d1f54739ddfcd20.js",
+    "precache-manifest.c61d110fd09402650c73f434f0981909.js": "/barranav/precache-manifest.c61d110fd09402650c73f434f0981909.js",
     "service-worker.js": "/barranav/service-worker.js",
-    "static/css/main.98bbbb82.chunk.css.map": "/barranav/static/css/main.98bbbb82.chunk.css.map",
+    "static/css/main.d3997d6a.chunk.css.map": "/barranav/static/css/main.d3997d6a.chunk.css.map",
     "static/js/2.184b4b47.chunk.js.LICENSE.txt": "/barranav/static/js/2.184b4b47.chunk.js.LICENSE.txt",
     "static/media/arrow.48ae6434.svg": "/barranav/static/media/arrow.48ae6434.svg",
     "static/media/bell.e9fd40a7.svg": "/barranav/static/media/bell.e9fd40a7.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.1ace6882.js",
     "static/js/2.184b4b47.chunk.js",
-    "static/css/main.98bbbb82.chunk.css",
+    "static/css/main.d3997d6a.chunk.css",
     "static/js/main.95a245ba.chunk.js"
   ]
 }
